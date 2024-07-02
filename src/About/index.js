@@ -4,7 +4,7 @@ const About = () => {
    return(
       <div className="container-about">
          <div className='imagem'>
-            <img src="https://perfectdailygrind.com/pt/wp-content/uploads/sites/5/2021/07/Unsplash-1-2.jpeg" />
+            <img src="https://perfectdailygrind.com/pt/wp-content/uploads/sites/5/2021/07/Unsplash-1-2.jpeg" alt="img"/>
          </div>
          <div className='texto'>
             <h5>Nossa História</h5>
