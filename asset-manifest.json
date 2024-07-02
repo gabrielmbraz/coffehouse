@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba73886d.css",
-    "main.js": "/static/js/main.635af1eb.js",
-    "index.html": "/index.html",
-    "main.ba73886d.css.map": "/static/css/main.ba73886d.css.map",
-    "main.635af1eb.js.map": "/static/js/main.635af1eb.js.map"
+    "main.css": "/coffehouse/static/css/main.ba73886d.css",
+    "main.js": "/coffehouse/static/js/main.635af1eb.js",
+    "index.html": "/coffehouse/index.html",
+    "main.ba73886d.css.map": "/coffehouse/static/css/main.ba73886d.css.map",
+    "main.635af1eb.js.map": "/coffehouse/static/js/main.635af1eb.js.map"
   },
   "entrypoints": [
     "static/css/main.ba73886d.css",
